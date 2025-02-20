@@ -30,6 +30,7 @@ main {
 h1 {
   font-size: 40px;
   line-height: 140%;
+  margin-top: 24px;
 }
 
 p + p {
